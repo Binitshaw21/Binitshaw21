@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Binitshaw21
 - 👀 I’m interested in cyber security,web development and Aiml
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m learned languages like C,JAVA,PYTHON,HTML and CSS
 - 💞️ I’m looking to collaborate on Projects and Hackathon 
 - 📫 How to reach me https://www.linkedin.com/in/binit-shaw-4b0388329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him
